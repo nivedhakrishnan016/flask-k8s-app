@@ -1,4 +1,4 @@
-# ── Stage: base image ─────────────────────────────────────────
+#Stage: base image 
 FROM python:3.11-slim
 
 # Set working directory inside the container
