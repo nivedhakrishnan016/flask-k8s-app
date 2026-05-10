@@ -3,9 +3,9 @@ kind: Service
 metadata:
   name: flask-service
 spec:
-  type: NodePort          # Exposes the app on a port on the EC2 node itself
+  type: NodePort          
   selector:
-    app: flask-app        # Must match the label in deployment.yaml
+    app: flask-app        
   ports:
     - protocol: TCP
       port: 80            # Port inside the cluster
