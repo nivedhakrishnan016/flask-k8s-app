@@ -1,7 +1,5 @@
 # Flask REST API — Kubernetes Deployment
 
-**Prophaze Technologies · DevOps Engineer Assignment · Submitted by Nivedha K**
-
 ---
 
 ## What is this project?
